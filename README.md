@@ -1,6 +1,17 @@
 # 💫 About Me:
-Hey there! I'm a full-stack developer passionate about building scalable applications and exploring the world of cybersecurity 🛡️.<br><br>🧠 Tech Stack<br>⚙️ Backend: NestJS<br><br>🗃️ Database: PostgreSQL<br><br>⚛️ Frontend: React<br><br>🔐 Interests: Cybersecurity, clean architecture, and secure coding practices<br><br>🛠️ What I'm working on<br>Building RESTful APIs with NestJS<br><br>Designing responsive UIs with React<br><br>Strengthening security across full-stack apps<br><br>🚀 Goals<br>Contribute to open-source cybersecurity tools<br><br>Dive deeper into ethical hacking and secure development<br><br>Automate and harden backend services<br><br>📫 Let's connect!<br>Always open to collaborate or chat about tech, security, or cool projects.
+Hey there! I'm a full-stack developer passionate about building scalable applications and exploring the world of cybersecurity 🛡️
 
+🧠 Tech Stack
+<br>⚙️ Backend: NestJS<br><br>
+🗃️ Database: PostgreSQL<br><br>
+⚛️ Frontend: React<br><br>
+🔐 Interests: Cybersecurity, clean architecture, and secure coding practices<br><br>
+🛠️ What I'm working on<br>
++ Building RESTful APIs with NestJS<br>
++ Designing responsive UIs with React<br>
++ Strengthening security across full-stack apps<br><br>
+🚀 Goals<br>Contribute to open-source cybersecurity tools<br><br>
+Dive deeper into ethical hacking and secure development<br><br>Automate and harden backend services<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_zero_js_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himurajs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himura.js@hotmail.com) 
